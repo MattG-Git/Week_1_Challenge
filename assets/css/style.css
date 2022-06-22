@@ -14,7 +14,7 @@ header {
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/*Horiseon logo in the nav bar*/
 header h1 {
     display: inline-block;
     font-size: 48px;
@@ -50,6 +50,7 @@ p {
     font-size: 16px;
 }
 
+/*added a title tag to the image so that it meets accessiblity standards since you can't add an alt tag when image is in the css doc*/
 .hero {
     height: 800px;
     width: 100%;
